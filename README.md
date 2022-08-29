@@ -7,7 +7,7 @@ A major trend in web design is parallax scrolling, which involves the background
 
 ## Demo
 
-Check out a working example on [JSFiddle](https://irbaaz49.github.io/Text-area-HTML-Layout-Header-Nav-Section-Aside-Footer---Post-Class---HTML---71ngj9ekild9/).
+Check out a working example on [Parallax](https://irbaaz49.github.io/Text-area-HTML-Layout-Header-Nav-Section-Aside-Footer---Post-Class---HTML---71ngj9ekild9/).
 
 
 
